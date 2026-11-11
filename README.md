@@ -5,7 +5,7 @@ I'm passionate about programming, software development, and exploring how techno
 
 Currently, I'm building my skills in Python, C#, JavaScript, HTML, and CSS, while learning more about software engineering, web development, and computer systems.
 
-My goal is to become a skilled software developer, continuously learning, building projects, and turning ideas into practical solutions. 🚀
+My goal is to become a skilled software developer, continuously learning, building projects, and turning ideas into practical solutions. 
 
 <hr/>
 🔧 **Technologies & Tools**
